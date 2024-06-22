@@ -1,5 +1,3 @@
-# LynxWare-Practice
-
 Preface
 I am convinced I was delivered onto a keyboard. I hate the institute of the mouse with a burning passion. That being said more and more applications I have to work with rely heavily on the mouse without offering keyboard alternatives. Hell is not fire and brimstone, it is in the time wasted with moving my hand from the keyboard to the mouse and back. Here comes this buzz-cut german guy with Lynxware, my personal saviour. Now I have a keyboard for a mouse. Check it out: Lynxware.
 
